@@ -4,7 +4,7 @@ This project is a small Python learning lab for understanding what happens durin
 
 ## Course docs
 
-- [Production AI App Course](https://github.com/noumanas/python-learning-Practics/Ai-app-development-learning%20/docs/production-ai-app-course/README.md)
+- [Production AI App Course](https://github.com/noumanas/Ai-app-development-learning/tree/main/docs/production-ai-app-course)
 
 ## What you will learn
 
