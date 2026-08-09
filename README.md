@@ -2,6 +2,10 @@
 
 This project is a small Python learning lab for understanding what happens during an API call.
 
+## Course docs
+
+- [Production AI App Course](/Users/macbookpro2018/Desktop/python-learning-Practics/Ai-app-development-learning%20/docs/production-ai-app-course/README.md)
+
 ## What you will learn
 
 - The parts of a request: method, URL, headers, query params, and body
